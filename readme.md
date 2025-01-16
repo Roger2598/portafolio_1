@@ -2,4 +2,6 @@
 
 Lorem Ipsum...
 
-Como instalar proyecto 0032 
+
+
+About me es una nueva página 
