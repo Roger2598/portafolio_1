@@ -1,5 +1,5 @@
-#Proyecto de mi portafolio
+#Proyecto de Mi Portafolio
 
 Lorem Ipsum...
 
-Como instalar proyecto 
+Como instalar proyecto 0032 
