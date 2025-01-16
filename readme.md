@@ -1,5 +1,7 @@
-#Proyecto de mi portafolio
+#Proyecto de Mi Portafolio
 
 Lorem Ipsum...
 
-Como instalar proyecto 
+
+
+About me es una nueva página 
